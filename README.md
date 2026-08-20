@@ -1,4 +1,4 @@
-# Le nostre montagne
+# Camminate
 
 Archivio familiare delle camminate in montagna. Gaia GPS continua a registrare e navigare le tracce; questa app conserva percorsi, uscite, persone e ricordi.
 
